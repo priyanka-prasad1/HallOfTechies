@@ -65,6 +65,21 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "YOUR NAME",
+    role: "YOUR ROLE",
+    image: "https://avatars.githubusercontent.com/u/50916765?v=4",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/GITHUB_USERNAME",
+      "https://linkedin.com/in/LINKEDIN_USERNAME",
+      "https://twitter.com/TWITTER_USERNAME",
+    ],
+  }
+
+
 ];
+
+
 
 export default data;
